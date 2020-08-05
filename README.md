@@ -6,7 +6,7 @@
 - 📸 low-key cinematographer
 - 📱 (currently working)
 - 🖍️ UI and icon designer
-- <b> style="color:MediumSeaGreen;">food 🍔 + music 🎶</b>
+- <h1 style="color:MediumSeaGreen;">food 🍔 + music 🎶</h1>
 
 ### Connect with me:
 <!-- Social Accounts -->
