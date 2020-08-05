@@ -6,7 +6,7 @@
 - 📸 low-key cinematographer
 - 📱 (currently working)
 - 🖍️ UI and icon designer
-- food 🍔 + music 🎶
+- <b>food 🍔 + music 🎶</b>
 
 ### Connect with me:
 <!-- Social Accounts -->
