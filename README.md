@@ -31,9 +31,10 @@
 <img align="left" alt="Xcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/600px-Xcode_Icon.png" />
 
 <br />
-<br />
 
-<img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
+<img align="middle" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
+
+<br />
 
 [website]: http://satyamsovan123.myportfolio.com
 [twitter]: https://twitter.com/satyamsovan123
