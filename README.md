@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
+<img align="middle" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
 
 [website]: http://satyamsovan123.myportfolio.com
 [twitter]: https://twitter.com/satyamsovan123
