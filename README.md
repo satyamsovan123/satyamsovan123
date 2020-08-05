@@ -6,8 +6,9 @@
 - 📸 low-key cinematographer
 - 📱 (currently working)
 - 🖍️ UI and icon designer
-- <h6> food 🍔 + music 🎶 </h6>
 <style type="text/css"> h6{color:#FF0000;} </style>
+- <h6> food 🍔 + music 🎶 </h6>
+
 
 ### Connect with me:
 <!-- Social Accounts -->
