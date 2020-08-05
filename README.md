@@ -26,8 +26,8 @@
 <img align="left" alt="Sketch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" />
 <img align="left" alt="Final Cut Pro" width="22px" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />
 <img align="left" alt="Jupyter Notebooks" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" />
-<img align="left" alt="Python" width="22px" src="https://www.python.org/static/community_logos/python-powered-h.svg" />
-
+<img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/96/000000/python.png" />
+<img align="left" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" />
 <br />
 <br />
 
