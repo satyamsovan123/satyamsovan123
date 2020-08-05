@@ -7,7 +7,7 @@
 - 📱 (currently working)
 - 🖍️ UI and icon designer
 - <h6> food 🍔 + music 🎶 </h6>
-h6{color:#00FF00;}
+<style type="text/css"> h6{color:#FF0000;} </style>
 
 ### Connect with me:
 <!-- Social Accounts -->
