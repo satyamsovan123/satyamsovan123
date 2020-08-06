@@ -4,7 +4,7 @@
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
-- 🌐 (learning Web Developement)
+- 🌐 (learning Web Development)
 - 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
 
@@ -19,6 +19,7 @@
 <br />
 
 ### Languages and Tools:
+***
 <a href="#">
 <img align="left" title="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
 </a>
