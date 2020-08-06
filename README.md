@@ -7,7 +7,6 @@
 - 🌐 (learning Web Development)
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
-
 <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
 
 ### Connect with me:
@@ -46,12 +45,6 @@
 <img align="left" alt="Xcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/600px-Xcode_Icon.png" />
 </a>
 -->
-
-<br />
-<br />
-
-<br />
-<br />
 
 [website]: http://satyamsovan123.myportfolio.com "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
