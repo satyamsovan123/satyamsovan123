@@ -1,6 +1,6 @@
 ## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
-### In a <strong>nut</strong>shell I'm,
+### In a <small>nut</small>shell I'm,
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
