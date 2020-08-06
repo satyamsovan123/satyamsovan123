@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 <a href="#">
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" /> "GH"
+<img align="left" title="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
 </a>
 <a href="#">
 <img align="left" alt="Adobe Photoshop" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
