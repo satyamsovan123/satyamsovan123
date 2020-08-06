@@ -1,6 +1,5 @@
 ## Howdy, I'm Satyam and here's my [portfolio][website] 👋
-<hr style="width:50%">
-<br>
+
 ### In a nutshell I'm,
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
@@ -8,7 +7,6 @@
 - 🌐 (learning Web Developement)
 - 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
-
 
 ### Connect with me:
 <!-- Social Accounts -->
