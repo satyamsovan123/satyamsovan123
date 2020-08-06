@@ -10,7 +10,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123" />
 </a>
 
 <a href="#">
