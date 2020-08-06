@@ -1,7 +1,7 @@
 ## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact" />
 </a>
 
 ### In a nut<em><small>shell</small></em> I'm,
