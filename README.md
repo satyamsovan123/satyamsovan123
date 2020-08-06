@@ -4,8 +4,8 @@
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
-- 📱 (currently working)
-- 🖍️ UI and icon designer
+- 🌐 (learning Web Developement)
+- 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
 
 
@@ -21,7 +21,7 @@
 
 ## Languages and Tools:
 <a href="#">
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
+<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" /> "GH"
 </a>
 <a href="#">
 <img align="left" alt="Adobe Photoshop" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
