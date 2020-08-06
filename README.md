@@ -38,7 +38,7 @@
 -->
 <br>
 
-### Connect with me:
+### Let's Connect :
 <!-- Social Accounts -->
 [<img align="left" alt="satyamsovan123 | Adobe Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="satyamsovan123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
