@@ -10,6 +10,8 @@
 <a href="#">
   <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
 </a>
+
+<br>
 ### Familiar Languages and Tools:
 <a href="#">
 <img align="left" title="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
