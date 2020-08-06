@@ -8,6 +8,7 @@
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
 
+<img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 <!-- Social Accounts -->
@@ -48,7 +49,7 @@
 
 <br />
 <br />
-<img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
+
 <br />
 <br />
 
