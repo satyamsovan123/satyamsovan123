@@ -1,16 +1,16 @@
 ## Howdy, I'm Satyam and here's my [portfolio][website] 👋
 
 ### In a nutshell I'm,
-***
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
 - 🌐 (learning Web Development)
 - 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
-
+<br />
+<br />
+---
 ### Connect with me:
-***
 <!-- Social Accounts -->
 [<img align="left" alt="satyamsovan123 | Adobe Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="satyamsovan123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -19,9 +19,8 @@
 [<img align="left" alt="obscuredpixels | Instagram (OP)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 <br />
 <br />
-
+---
 ### Languages and Tools:
-***
 <a href="#">
 <img align="left" title="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
 </a>
@@ -50,11 +49,10 @@
 -->
 
 <br />
-
-<img align="middle" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
-
 <br />
-
+<img align="middle" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
+<br />
+<br />
 
 [website]: http://satyamsovan123.myportfolio.com "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
