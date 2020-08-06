@@ -7,7 +7,6 @@
 - 🌐 (learning Web Development)
 - 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
-<br />
 
 ### Connect with me:
 <!-- Social Accounts -->
