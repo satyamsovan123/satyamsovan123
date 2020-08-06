@@ -8,6 +8,10 @@
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
 <a href="#">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
+<a href="#">
   <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true&theme=gotham" /> </a>
   
 ### Familiar Languages and Tools:
