@@ -1,7 +1,6 @@
 ## Howdy, I'm Satyam and here's my [portfolio][website] 👋
-
+<hr style="width:50%">
 ### In a nutshell I'm,
-<hr>
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
@@ -11,7 +10,6 @@
 
 
 ### Connect with me:
-<hr>
 <!-- Social Accounts -->
 [<img align="left" alt="satyamsovan123 | Adobe Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="satyamsovan123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,7 +20,6 @@
 <br />
 
 ### Languages and Tools:
-<hr>
 <a href="#">
 <img align="left" title="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
 </a>
