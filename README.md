@@ -1,6 +1,6 @@
 ## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
-### In a nutshell I'm,
+### <p>In a nutshell I'm,</p> <span style="color:blue">some text</span>.
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
