@@ -57,5 +57,5 @@
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
 [youtube]: https://youtube.com/obscuredpixels "YouTube"
 [instagram]: https://instagram.com/obscuredpixels "Instagram"
-[linkedin]: https://linkedin.com/in/satyamsovan123 "LinkedIN"
+[linkedin]: https://linkedin.com/in/satyamsovan123 "LinkedIn"
 [behance]: https://behance.net/satyamsovan123 "Bēhance"
