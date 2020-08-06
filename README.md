@@ -8,7 +8,6 @@
 - 🖍️ UI and icon designer 
 - food 🍔 + music 🎶
 <br />
-<br />
 
 ### Connect with me:
 <!-- Social Accounts -->
