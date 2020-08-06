@@ -20,8 +20,9 @@
 <br />
 
 ## Languages and Tools:
-
-img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub"
+<a href="">
+<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
+</a>
 <img align="left" alt="Adobe Photoshop" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 <img align="left" alt="Sketch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" />
 <img align="left" alt="Final Cut Pro" width="22px" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />
