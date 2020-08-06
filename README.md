@@ -36,9 +36,9 @@
 
 <br />
 
-[website]: http://satyamsovan123.myportfolio.com
-[twitter]: https://twitter.com/satyamsovan123
-[youtube]: https://youtube.com/satyamsovan123
-[instagram]: https://instagram.com/satyamsovan123 "IG"
-[linkedin]: https://linkedin.com/in/satyamsovan123
-[behance]: https://behance.net/satyamsovan123
+[website]: http://satyamsovan123.myportfolio.com "Portfolio"
+[twitter]: https://twitter.com/satyamsovan123 "Twitter"
+[youtube]: https://youtube.com/obscuredpixels "YouTube"
+[instagram]: https://instagram.com/obscuredpixels "Instagram"
+[linkedin]: https://linkedin.com/in/satyamsovan123 "LinkedIN"
+[behance]: https://behance.net/satyamsovan123 "Bēhance"
