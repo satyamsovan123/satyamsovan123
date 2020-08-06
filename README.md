@@ -1,4 +1,4 @@
-## Howdy, I'm Satyam and here's my [portfolio][website] 👋
+## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
 ### In a nutshell I'm,
 - 👨‍🎓 a CS undergrad
