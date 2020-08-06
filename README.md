@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" title="It does not indicate my skill level" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact" />
+    <img align="right" title="NOTE: It doesn't indicate my skill level" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact" />
 </a>
 
 ### In a nut<em><small>shell</small></em> I'm,
@@ -15,7 +15,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="#">
-  <img align="right" title="My projects and contribution at a glance" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true&theme=gotham" /> </a>
+  <img align="right" title="My projects and contributions at a glance" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true&theme=gotham" /> </a>
   
 ### Familiar Languages and Tools:
 <a href="#">
