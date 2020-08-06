@@ -23,14 +23,27 @@
 <a href="#">
 <img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" "GitHub" />
 </a>
+<a href="#">
 <img align="left" alt="Adobe Photoshop" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
+</a>
+<a href="#">
 <img align="left" alt="Sketch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" />
+</a> 
+<a href="#">
 <img align="left" alt="Final Cut Pro" width="22px" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png" />
+</a>
+<a href="#">
 <img align="left" alt="Jupyter Notebooks" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" />
+</a>
+<a href="#">
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/96/000000/python.png" />
+</a>
+<a href="#">
 <img align="left" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png" />
+</a>
+<a href="#">
 <img align="left" alt="Xcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/600px-Xcode_Icon.png" />
-
+</a>
 <br />
 
 <img align="middle" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" />
