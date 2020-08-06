@@ -1,14 +1,8 @@
 ## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
-<!--
-<a href="#">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact" />
-  </a>
-</a>
--->
-<a href="">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" title="It does not indicate my skill level" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123&layout=compact" />
 </a>
 
 ### In a nut<em><small>shell</small></em> I'm,
