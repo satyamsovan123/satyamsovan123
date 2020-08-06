@@ -6,7 +6,7 @@
 - 📸 low-key cinematographer
 - 🌐 (learning Web Development)
 - 🖍️ UI and icon designer 
-- food 🍔 + music 🎶
+- 🍔 food + 🎶 music 
 
 
 ### Connect with me:
