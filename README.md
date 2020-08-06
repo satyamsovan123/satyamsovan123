@@ -37,7 +37,7 @@
 <img align="left" alt="Xcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Xcode_Icon.png/600px-Xcode_Icon.png" />
 </a>
 -->
-<br>
+
 
 ### Let's Connect :
 <!-- Social Accounts -->
@@ -46,10 +46,8 @@
 [<img align="left" alt="satyamsovan123 | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="satyamsovan123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="obscuredpixels | Instagram (OP)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-<br />
+<br/>
 
-### 👇 Feel free to check out my repos below.
-<br>
 [website]: http://satyamsovan123.myportfolio.com "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
 [youtube]: https://youtube.com/obscuredpixels "YouTube"
