@@ -1,5 +1,9 @@
 ## 👋 Howdy, I'm Satyam and here's my [portfolio][website] 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123" />
+</a>
+
 ### In a nut<em><small>shell</small></em> I'm,
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
@@ -8,10 +12,6 @@
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123" />
-</a>
 
 <a href="#">
   <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true&theme=gotham" /> </a>
