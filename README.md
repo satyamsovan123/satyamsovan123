@@ -8,7 +8,7 @@
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
 <a href="#">
-  <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" /> </a>
+  <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true&theme=gruvbox" /> </a>
   
 ### Familiar Languages and Tools:
 <a href="#">
