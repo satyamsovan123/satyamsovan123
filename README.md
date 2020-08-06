@@ -9,6 +9,10 @@
 - 🍔 food + 🎶 music 
 <a href="#">
   <img align="right" alt="satyamsovan123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=satyamsovan123&show_icons=true&hide_border=true" /> </a>
+  
+<br>
+### sdj
+<br>
 
 ### Familiar Languages and Tools:
 <a href="#">
@@ -47,9 +51,7 @@
 [<img align="left" alt="satyamsovan123 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="obscuredpixels | Instagram (OP)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 <br>
-<br>
-### sdj
-<br>
+
 [website]: http://satyamsovan123.myportfolio.com "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
 [youtube]: https://youtube.com/obscuredpixels "YouTube"
