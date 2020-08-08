@@ -8,7 +8,7 @@
 - 👨‍🎓 a CS undergrad
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
-- 🌐 (learning Web Development)
+- 🌐 (learning) Web Development
 - 🖍️ UI and icon designer 
 - 🍔 food + 🎶 music 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
