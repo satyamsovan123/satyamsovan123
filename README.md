@@ -9,7 +9,7 @@
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
 - 🌐 (learning) Web Development
-- 🖍️ UI and icon designer 
+- 🖍️ terrible UI and wallpaper designer 
 - 🍔 food + 🎶 music 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
 
