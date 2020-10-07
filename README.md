@@ -5,7 +5,7 @@
 </a>
 
 ### In a nut<em><small>shell</small></em> I'm,
-- 👨‍🎓 a CS undergrad
+- 👷 currently busy making something
 - 👨‍💻 a python programmer
 - 📸 low-key cinematographer
 - 🌐 (learning) Web Development
@@ -54,7 +54,7 @@
 <!-- [<img align="left" alt="obscuredpixels | Instagram (OP)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram] -->
 <br>
 
-[website]: http://satyamsovan123.myportfolio.com "Portfolio"
+[website]: http://satyamsovan123.github.io/cv "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
 [youtube]: https://youtube.com/obscuredpixels "YouTube"
 [instagram]: https://instagram.com/obscuredpixels "Instagram"
