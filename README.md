@@ -57,7 +57,7 @@
 <!-- [<img align="left" alt="obscuredpixels | Instagram (OP)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram] -->
 <br>
 
-[website]: http://satyamsovan123.github.io/cv "Portfolio"
+[website]: http://satyamsovan.com "Portfolio"
 [twitter]: https://twitter.com/satyamsovan123 "Twitter"
 [youtube]: https://youtube.com/obscuredpixels "YouTube"
 [instagram]: https://instagram.com/obscuredpixels "Instagram"
