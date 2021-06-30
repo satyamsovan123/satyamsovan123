@@ -5,10 +5,9 @@
 </a>
 
 ### In a nut<em><small>shell</small></em> I'm,
-- 👷 currently busy making something
-- 👨‍💻 a python programmer
-- 📸 low-key cinematographer
-- 🌐 learning Web Development
+- 👨‍💻 currently learning iOS development
+- 📸 low key cinematographer
+<!-- - 🌐 learning Web Development -->
 - 🖍️ terrible UI and wallpaper designer 
 - 🍔 food + 🎶 music 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
