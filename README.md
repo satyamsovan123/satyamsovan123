@@ -7,9 +7,9 @@
 ### In a nut<em><small>shell</small></em> I'm,
 - 👨‍💻 currently learning iOS development
 - 📸 low key cinematographer
-<!-- - 🌐 learning Web Development -->
 - 🖍️ terrible UI and wallpaper designer 
 - 🍔 food + 🎶 music 
+- <!-- - 🌐 learning Web Development -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsovan123)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <a href="#">
