@@ -24,9 +24,9 @@
 <a href="#">
 <img align="left" title="Sketch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg"/>
 </a>
-<a href="#">
+<!-- <a href="#">
 <img align="left" title="Figma" width="22px" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png?&w=736"/>
-</a> 
+</a>  -->
 <a href="#">
 <img align="left" title="Final Cut Pro" width="22px" src="https://upload.wikimedia.org/wikipedia/en/9/9f/2015_Final_Cut_Pro_Logo.png"/>
 </a>
