@@ -46,7 +46,7 @@
 -->
 <br>
 
-### Let's Connect :
+### Let's Connect:
 <!-- Social Accounts -->
 [<img align="left" alt="satyamsovan123 | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="satyamsovan123 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
